@@ -22,9 +22,5 @@ p {
     font-size: larger;
 }
 
-p:last-of-type {
-    color: rebeccapurple;
-    font-style: italic;
-    font-weight: 100; 
-}
+
 
